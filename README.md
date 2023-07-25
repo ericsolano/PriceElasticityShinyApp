@@ -1,7 +1,4 @@
-# priceelasticity01
-Price elasticity of demand analysis
-
-Price Elasticity of Demand
+#Price Elasticity of Demand
 ========================================================
 author: Eric Solano
 date: November 22, 2015
