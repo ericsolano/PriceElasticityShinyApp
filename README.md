@@ -1,7 +1,7 @@
 Price Elasticity of Demand
 ========================================================
 author: Eric Solano  
-date: November 22, 2015
+date: November 22, 2015  
 updated: July 26, 2023  
 
 Tafeng Dataset
